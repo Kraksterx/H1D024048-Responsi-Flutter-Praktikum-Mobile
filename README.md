@@ -101,7 +101,7 @@ Aplikasi menggunakan dua endpoint publik dari [Open-Meteo](https://open-meteo.co
 
 | Home / Weather Screen | Search Screen (Pencarian) | Favorit & Riwayat |
 |:---:|:---:|:---:|
-| *(Tambahkan screenshot Home)* | *(Tambahkan screenshot Search)* | *(Tambahkan screenshot Favorit)* |
+| *![alt text](image-2.png)* | *![alt text](image.png)* | *![alt text](image-1.png)* |
 
 ---
 
